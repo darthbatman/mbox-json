@@ -1,0 +1,33 @@
+{
+  "name": "mbox-json",
+  "version": "1.0.0",
+  "description": "Parses MBOX file to JSON",
+  "main": "mbox-json.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint ./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthbatman/mbox-json.git"
+  },
+  "keywords": [
+    "mbox",
+    "json",
+    "email",
+    "gmail",
+    "chat",
+    "messages"
+  ],
+  "author": "Rishi Masand <darthanakin44@gmail.com> (https://github.com/darthbatman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darthbatman/mbox-json/issues"
+  },
+  "homepage": "https://github.com/darthbatman/mbox-json#readme"
+}
